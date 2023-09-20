@@ -1,5 +1,3 @@
-package homework.hw1.Lam_Project;
-
 import java.util.Scanner;
 
 public class Client {
