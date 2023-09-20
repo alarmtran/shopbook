@@ -1,5 +1,3 @@
-package homework.hw1.Lam_Project;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
