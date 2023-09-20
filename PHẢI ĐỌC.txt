@@ -1,0 +1,8 @@
+Đọc kỹ hướng dẫn trước khi dùng
+
+
+Coppy toàn bộ file .txt ra thư mục src của bạn
+hoặc vào Terminal xem bạn đang ở thư mục nào
+thì coppy toàn bộ file .txt vào thư mục đó sau đó chạy như bình thường
+
+=))) Chúc bạn trải nghiệm zui zẻ hong quạo
