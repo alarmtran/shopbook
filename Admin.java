@@ -1,5 +1,3 @@
-package homework.hw1.Lam_Project;
-
 public class Admin extends User {
     public Admin(String username, String password) {
         super(username, password);
