@@ -1,5 +1,3 @@
-package homework.hw1.Lam_Project;
-
 import java.util.ArrayList;
 
 public class User {
